@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Scenario: when i visit the devotional page" tests="4" skipped="2" failures="2" errors="0" timestamp="2017-01-20T00:20:01" hostname="mallikarjun-PC" time="0.011">
+<testsuite name="Scenario: when i visit the devotional page" tests="4" skipped="2" failures="2" errors="0" timestamp="2017-01-20T00:26:53" hostname="mallikarjun-PC" time="0.04">
   <properties/>
-  <testcase name="Given I am on the devotional web site" classname="Scenario: when i visit the devotional page" time="0.005">
+  <testcase name="Given I am on the devotional web site" classname="Scenario: when i visit the devotional page" time="0.01">
     <failure message="org.openqa.selenium.WebDriverException: Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: XP&#10;System info: os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_91'&#10;Driver info: driver.version: firefox" type="org.openqa.selenium.WebDriverException">org.openqa.selenium.WebDriverException: Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: XP
 System info: os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_91'
 Driver info: driver.version: firefox
@@ -16,10 +16,10 @@ Driver info: driver.version: firefox
   <testcase name="When I went to visit us at page" classname="Scenario: when i visit the devotional page" time="0.0">
     <skipped/>
   </testcase>
-  <testcase name="Then closed the page" classname="Scenario: when i visit the devotional page" time="0.0">
+  <testcase name="Then closed the page" classname="Scenario: when i visit the devotional page" time="0.01">
     <skipped/>
   </testcase>
-  <testcase name="classMethod" classname="Scenario: when i visit the devotional page" time="0.693">
+  <testcase name="classMethod" classname="Scenario: when i visit the devotional page" time="0.921">
     <failure message="org.openqa.selenium.WebDriverException: Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: XP&#10;System info: os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_91'&#10;Driver info: driver.version: firefox" type="org.openqa.selenium.WebDriverException">org.openqa.selenium.WebDriverException: Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: XP
 System info: os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_91'
 Driver info: driver.version: firefox
